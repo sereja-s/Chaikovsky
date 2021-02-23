@@ -68,9 +68,9 @@ use yii\helpers\Url;
 		<div class="container">
 			<div class="footer">
 				<div class="left-block">
-					<a href="" class="sitetitle">Уроки PHP</a>
-					<div class="copyright">(c) 2020
-						<a href="https://github.com/AndrewDanilov">AndrewDanilov</a>
+					<a href="" class="sitetitle">Наш сайт</a>
+					<div class="copyright">(c) 2021
+						<a href="https://serejasuvorov1979@gmail.com">Для связи</a>
 					</div>
 				</div>
 				<div class="footer-menu">
